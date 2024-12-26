@@ -12,6 +12,8 @@
 
 **MENTOR NAME**:NEELA SANTHOSH KUMAR
 
+**A password generator is a tool that generates a random combination of numbers,letters,and symbols to be used as a password**
+
 #Output
 
 https://github.com/Bava12062006/Password-generator/issues/1#issue-2759258655
